@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**SashkaToropov/SashkaToropov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oleksandr, an iOS Developer passionate about crafting delightful and functional mobile applications. Currently based in Zaporizhzhia, Ukraine. I enjoy bringing creative ideas to life through code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 iOS Developer
+- 🌐 [LinkedIn](www.linkedin.com/in/oleksandr-toropov)
+- 🎓 Studying Computer Science at V.N.Karazin Kharkiv National University
+
+## 🔧 Skills
+
+- Swift
+- UIKit
+- Core Data
+- Interface Builder & Auto Layout
+- Git & Version Control
+
+## 🛠️ Experience
+
+### [Balancyй Team](#) - iOS Developer (October 2023 - Present)
+
+- Currently working on TODO app
+  
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🚀
