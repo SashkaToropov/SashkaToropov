@@ -5,7 +5,7 @@ I'm Oleksandr, an iOS Developer passionate about crafting delightful and functio
 ## 🚀 About Me
 
 - 📱 iOS Developer
-- 🌐 [LinkedIn](www.linkedin.com/in/oleksandr-toropov)
+- 🌐 [LinkedIn](https://linkedin.com/in/oleksandr-toropov)
 - 🎓 Studying Computer Science at V.N.Karazin Kharkiv National University
 
 ## 🔧 Skills
