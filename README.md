@@ -12,6 +12,7 @@ I'm Oleksandr, an iOS Developer passionate about crafting delightful and functio
 
 - Swift
 - UIKit
+- SwiftUI
 - Interface Builder & Auto Layout
 - Git & Version Control
 
